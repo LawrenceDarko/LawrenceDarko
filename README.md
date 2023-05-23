@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Lawrence Darko <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">👋 Hello, I'm Lawrence Darko, a passionate software developer with over 6+ years of hands-on experience in the field. As a full stack developer, I thrive in crafting innovative solutions and seamless user experiences. My expertise lies in a diverse range of technologies, including React, Next.js, React Native, AWS Amplify, Python, Django, HTML, CSS, Tailwind CSS, Styled Components, JavaScript, TypeScript, C++, and Java.
+<p align="left">👋 Hello, I'm Lawrence Darko, a passionate software developer with over 6+ years of hands-on experience in the field. As a full stack developer, I thrive in crafting innovative solutions and seamless user experiences. My expertise lies in a diverse range of technologies, including React, Next.js, React Native, AWS Amplify, Python, Django, HTML, CSS, Tailwind CSS, Styled Components, JavaScript, TypeScript, C++, and Java.
 
 Beyond my love for software development, I am an avid enthusiast of machine learning and artificial intelligence. Exploring the fascinating realms of AI, I continuously seek opportunities to integrate intelligent algorithms into real-world applications.
 
 On this GitHub profile, I aim to share my projects, code snippets, and insights gathered from my journey as a developer. Join me as we embark on this exciting adventure, where technology meets creativity and possibilities are endless.
 
-Feel free to explore my repositories, and don't hesitate to reach out if you have any questions, collaboration ideas, or simply want to connect. Let's build something remarkable together! 🚀</h3>
+Feel free to explore my repositories, and don't hesitate to reach out if you have any questions, collaboration ideas, or simply want to connect. Let's build something remarkable together! 🚀</p>
 
 - 🔭 I’m currently working on my **Next.js course**
 
