@@ -45,7 +45,7 @@ Feel free to explore my repositories, and don't hesitate to reach out if you hav
   
 </div>
 
-### Languages and Tools 🛠 
+<div aign="center">### Languages and Tools 🛠</div> 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
